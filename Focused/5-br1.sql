@@ -1,0 +1,1 @@
+SELECT distinct(br1) FROM `western-diorama-415812.address.1-hop-br`
